@@ -1,0 +1,24 @@
+{
+  "name": "bootweb",
+  "description": "bootweb",
+  "main": "index.html",
+  "keywords": [
+    "bootweb"
+  ],
+  "authors": [
+    "gugun"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+      "src/**",
+      "component.json",
+      "package.json",
+      "bower.json"
+      ],
+  "dependencies": {
+    "materialize": "^0.97.7"
+  },
+  "directory" : "src/main/webapp/bower_components"
+}
